@@ -4,4 +4,4 @@
 
 🧠 **Extract Product Name & Price from Natural Language** using **LangChain**, **Pydantic**, **Groq**, and **Streamlit**.
 
-- 💻 [Explore the Code on GitHub](https://github.com/your-username/product-insight-assistant)
+- 💻 [Explore the Code](https://github.com/Nahidzeinali-web/Product-Price-Finder-with-LLMs)
