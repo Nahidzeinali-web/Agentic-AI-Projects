@@ -18,7 +18,7 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 |---------|------------------------------------------------|--------------------|
 | 1       | ✅ Agentic AI Tutorial Introduction            | [GitHub](https://github.com/Nahidzeinali-web/1-Agentic-AI-Course/tree/main) |
 | 2       | ✅ Product Insight Assistant with LLMs         | [GitHub](https://github.com/Nahidzeinali-web/Product-Price-Finder-with-LLMs) |
-| 3       | ✅ Getting Started with LangChain              | [GitHub](https://github.com/Nahidzeinali-web/2-Agentic-AI-course) |
+| 3       | ✅ LangChain Document Loaders and Text Splitters             | [GitHub](https://github.com/Nahidzeinali-web/2-Agentic-AI-course) |
 | 4       | 🕐 Building Autonomous Agents with LangGraph   | _Coming soon_ |
 | 5       | 🧠 Prompt Engineering for Agent Behavior       | _Coming soon_ |
 | 6       | 🔍 Integrating Vector Stores (FAISS & ChromaDB)| _Coming soon_ |
