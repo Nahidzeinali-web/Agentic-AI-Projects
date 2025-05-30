@@ -16,7 +16,7 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 
 | Chapter | Topic                                          | Notebook/Repo Link |
 |---------|------------------------------------------------|--------------------|
-| 1       | ✅ Robust Data Validation in Python            | [GitHub](https://github.com/Nahidzeinali-web/1-Agentic-AI-Course/tree/main) |
+| 1       | ✅ Agentic AI Tutorial Introduction            | [GitHub](https://github.com/Nahidzeinali-web/1-Agentic-AI-Course/tree/main) |
 | 2       | ✅ Product Insight Assistant with LLMs         | [GitHub](https://github.com/Nahidzeinali-web/Product-Price-Finder-with-LLMs) |
 | 3       | ✅ Getting Started with LangChain              | [GitHub](https://github.com/Nahidzeinali-web/2-Agentic-AI-course) |
 | 4       | 🕐 Building Autonomous Agents with LangGraph   | _Coming soon_ |
