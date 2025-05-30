@@ -1,52 +1,49 @@
-# 🤖 Agentic AI Projects
-
-## 1. Product Insight Assistant with LLMs
-
-🧠 **Extract Product Name & Price from Natural Language** using **LangChain**, **Pydantic**, **Groq**, and **Streamlit**.
-
-- 💻 [Explore the Code](https://github.com/Nahidzeinali-web/Product-Price-Finder-with-LLMs)
-
-
 # 📚 Learning Roadmap
 
-Welcome to my learning repository! This document provides a structured overview of all the classes I'm currently taking or have completed, with links to detailed notes or resources for each.
+Welcome to my **learning repository**! This document provides a structured overview of the courses and hands-on projects I'm currently working through, with links to **interactive notebooks**, **code repositories**, and **notes**.
 
 ---
+
 # 🤖 Agentic AI: Hands-On Learning Track
 
-Welcome to my Agentic AI learning journey! This repository will contain practical notebooks and notes to explore how to build autonomous and interactive AI agents using modern LLM frameworks.
+This track focuses on building **autonomous and interactive AI agents** using modern large language model (LLM) frameworks. Each module includes theory, implementation, and practical exercises.
 
-> Inspired by the format of *The Illustrated LLM Book* by Jay Alammar and Maarten Grootendorst.
+> 💡 Inspired by *The Illustrated LLM Book* by Jay Alammar and Maarten Grootendorst.
 
 ---
 
 ## 📘 Table of Contents
 
-| Chapter | Topic                                                       | Notebook |
-|---------|-------------------------------------------------------------|----------|
-| 1       | Robust Data Validation in Python                            | [Open in Github](https://github.com/Nahidzeinali-web/1-Agentic-AI-Course/tree/main) |
-| 2       | ReAct and Chain-of-Thought Agents                           | [Open in Colab](https://colab.research.google.com/) |
-| 3       | AutoGPT, BabyAGI, and Recursive Agents                      | [Open in Colab](https://colab.research.google.com/) |
-| 4       | LangChain Agents and Tool Usage                             | [Open in Colab](https://colab.research.google.com/) |
-| 5       | Planning and Memory in Agents (e.g., Vector DB, Reflection) | [Open in Colab](https://colab.research.google.com/) |
-| 6       | LangGraph for Control Flow of Agentic Systems               | [Open in Colab](https://colab.research.google.com/) |
-| 7       | Using Agents for Real-world Automation (APIs, Browsing)     | [Open in Colab](https://colab.research.google.com/) |
-| 8       | Evaluation and Safety in Agentic AI                         | [Open in Colab](https://colab.research.google.com/) |
+| Chapter | Topic                                          | Notebook/Repo Link |
+|---------|------------------------------------------------|--------------------|
+| 1       | ✅ Robust Data Validation in Python            | [GitHub](https://github.com/Nahidzeinali-web/1-Agentic-AI-Course/tree/main) |
+| 2       | ✅ Product Insight Assistant with LLMs         | [GitHub](https://github.com/Nahidzeinali-web/Product-Price-Finder-with-LLMs) |
+| 3       | ✅ Getting Started with LangChain              | [Open in Colab](https://colab.research.google.com/) |
+| 4       | 🕐 Building Autonomous Agents with LangGraph   | _Coming soon_ |
+| 5       | 🧠 Prompt Engineering for Agent Behavior       | _Coming soon_ |
+| 6       | 🔍 Integrating Vector Stores (FAISS & ChromaDB)| _Coming soon_ |
+| 7       | 🌐 Multi-Agent Architectures with FastAPI      | _Coming soon_ |
+| 8       | 🚀 Deploying Agents with Streamlit             | _Coming soon_ |
+
+> ✅ Completed  🕐 In Progress  🔜 Planned
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **LangChain** and **LangGraph**
-- **OpenAI**, **LLaMA**, or **Mistral** LLM APIs
-- **FAISS**, **ChromaDB** for memory
-- **Python**, **FastAPI**, and **Streamlit** for deployment
+This series leverages the following tools and technologies:
+
+- **Frameworks**: `LangChain`, `LangGraph`
+- **LLM APIs**: `OpenAI`, `LLaMA`, `Mistral`
+- **Memory / Vector Stores**: `FAISS`, `ChromaDB`
+- **Backend & Deployment**: `Python`, `FastAPI`, `Streamlit`
 
 ---
 
-## 📝 Notes
-You can find detailed notes for each topic in the `notes/` directory of this repo.
+## 📝 Notes & Resources
 
----
+- All detailed notes are available in the `notes/` directory of the repo.
+- Each notebook is self-contained with markdown explanations, code, and outputs.
+- Bonus content and diagrams will be available under the `extras/` folder.
 
-Would you like me to generate example `.ipynb` notebooks or dummy `.md` files for each chapter to get started? I can also help you host the repo structure on GitHub if you’d like.
+
