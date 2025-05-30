@@ -8,7 +8,7 @@ Welcome to my **learning repository**! This document provides a structured overv
 
 This track focuses on building **autonomous and interactive AI agents** using modern large language model (LLM) frameworks. Each module includes theory, implementation, and practical exercises.
 
-> 💡 Inspired by *The Illustrated LLM Book* by Jay Alammar and Maarten Grootendorst.
+> 💡 Inspired by *The Illustrated Course by Krish Naik.
 
 ---
 
@@ -18,7 +18,7 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 |---------|------------------------------------------------|--------------------|
 | 1       | ✅ Robust Data Validation in Python            | [GitHub](https://github.com/Nahidzeinali-web/1-Agentic-AI-Course/tree/main) |
 | 2       | ✅ Product Insight Assistant with LLMs         | [GitHub](https://github.com/Nahidzeinali-web/Product-Price-Finder-with-LLMs) |
-| 3       | ✅ Getting Started with LangChain              | [Open in Colab](https://colab.research.google.com/) |
+| 3       | ✅ Getting Started with LangChain              | [GitHub](https://github.com/Nahidzeinali-web/2-Agentic-AI-course) |
 | 4       | 🕐 Building Autonomous Agents with LangGraph   | _Coming soon_ |
 | 5       | 🧠 Prompt Engineering for Agent Behavior       | _Coming soon_ |
 | 6       | 🔍 Integrating Vector Stores (FAISS & ChromaDB)| _Coming soon_ |
