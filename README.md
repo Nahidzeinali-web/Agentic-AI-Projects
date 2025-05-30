@@ -24,7 +24,7 @@ Welcome to my Agentic AI learning journey! This repository will contain practica
 
 | Chapter | Topic                                                       | Notebook |
 |---------|-------------------------------------------------------------|----------|
-| 1       | Introduction to Agentic AI                                  | [Open in Github](https://colab.research.google.com/) |
+| 1       | Robust Data Validation in Python                            | [Open in Github](https://github.com/Nahidzeinali-web/1-Agentic-AI-Course/tree/main) |
 | 2       | ReAct and Chain-of-Thought Agents                           | [Open in Colab](https://colab.research.google.com/) |
 | 3       | AutoGPT, BabyAGI, and Recursive Agents                      | [Open in Colab](https://colab.research.google.com/) |
 | 4       | LangChain Agents and Tool Usage                             | [Open in Colab](https://colab.research.google.com/) |
