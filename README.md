@@ -21,10 +21,10 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 | 2       | ✅ LangChain Document Loaders and Text Splitters | [GitHub](https://github.com/Nahidzeinali-web/2-Agentic-AI-course) |
 | 3       | ✅ Text Embeddings & Retrieval with LangChain: OpenAI, Hugging Face, FAISS, and Classic RAG  |[GitHub](https://github.com/Nahidzeinali-web/3-Agentic-AI) |
 | *       | ✅ Assignemnt-2   |[GitHub] |
-| 4       | 🕐 Prompt Engineering for Agent Behavior       | _Coming soon_ |
-| 5       | 🕐 Integrating Vector Stores (FAISS & ChromaDB)| _Coming soon_ |
-| 6       | 🕐 Multi-Agent Architectures with FastAPI      | _Coming soon_ |
-| 7       | 🕐 Deploying Agents with Streamlit             | _Coming soon_ |
+| 4       | 🕐       | _Coming soon_ |
+| 5       | 🕐| _Coming soon_ |
+| 6       | 🕐     | _Coming soon_ |
+| 7       | 🕐             | _Coming soon_ |
 
 > ✅ Completed  🕐 In Progress  🔜 Planned
 
