@@ -17,7 +17,7 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 | Chapter | Topic                                          | Notebook/Repo Link |
 |---------|------------------------------------------------|--------------------|
 | 1       | ✅ Agentic AI Tutorial Introduction            | [GitHub](https://github.com/Nahidzeinali-web/1-Agentic-AI-Course/tree/main) |
-| *       | ✅ Assignemnt1        | [GitHub](https://github.com/Nahidzeinali-web/Product-Price-Finder-with-LLMs) |
+| *       | ✅ Assignemnt-1        | [GitHub](https://github.com/Nahidzeinali-web/Product-Price-Finder-with-LLMs) |
 | 2       | ✅ LangChain Document Loaders and Text Splitters | [GitHub](https://github.com/Nahidzeinali-web/2-Agentic-AI-course) |
 | 3       | ✅ Text Embeddings & Retrieval with LangChain: OpenAI, Hugging Face, FAISS, and Classic RAG  |[GitHub](https://github.com/Nahidzeinali-web/3-Agentic-AI) |
 | *       | ✅ Assignemnt-2   |[GitHub] |
