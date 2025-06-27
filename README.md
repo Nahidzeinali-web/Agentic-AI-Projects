@@ -24,9 +24,10 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 | 4       | ✅ LangChain Tools & LangGraph Integration Tutorial-1|[GitHub](https://github.com/Nahidzeinali-web/1-langgraph/tree/main) |
 | 5       | ✅ LangChain Tools & LangGraph Integration Tutorial-2| [GitHub](https://github.com/Nahidzeinali-web/5-Agentic_AI) |
 | *       | ✅ Assignemnt-3|[GitHub]
-| 6       | ✅ LangChain RAG Pipeline|[GitHub](https://github.com/Nahidzeinali-web/6-Agentic-AI)|
+| 6       | ✅ Agent RAG Pipeline|[GitHub](https://github.com/Nahidzeinali-web/6-Agentic-AI)|
+| 7       | ✅ Multi Agent|[GitHub]|
 | *       | ✅ Assignemnt-4|[GitHub]
-| 7       | 🕐     | _Coming soon_ |
+| 8       | 🕐     | _Coming soon_ |
 
 > ✅ Completed  🕐 In Progress  🔜 Planned
 
