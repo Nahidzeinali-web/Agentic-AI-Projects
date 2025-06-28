@@ -1,6 +1,6 @@
 # 📚 Learning Roadmap
 
-Welcome to my **learning repository**! This document provides a structured overview of the courses and hands-on projects I'm currently working through, with links to **interactive notebooks**, **code repositories**, and **notes**.
+Welcome to my learning repository! This document provides a structured overview of the courses and hands-on projects I'm currently working through, with links to interactive notebooks, code repositories, and notes.
 
 ---
 
@@ -25,7 +25,7 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 | 5       | ✅ LangChain Tools & LangGraph Integration Tutorial-2| [GitHub](https://github.com/Nahidzeinali-web/5-Agentic_AI) |
 | *       | ✅ Assignemnt-3|[GitHub]
 | 6       | ✅ Agent RAG Pipeline|[GitHub](https://github.com/Nahidzeinali-web/6-Agentic-AI)|
-| 7       | ✅ Multi Agent|[GitHub]|
+| 7       | ✅ Introduction of Multi Agent|[GitHub](https://github.com/Nahidzeinali-web/6-Multi-Agent/tree/main)|
 | *       | ✅ Assignemnt-4|[GitHub]
 | 8       | 🕐     | _Coming soon_ |
 
