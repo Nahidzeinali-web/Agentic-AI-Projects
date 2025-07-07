@@ -23,7 +23,7 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 | *       | ✅ Assignemnt-2|[GitHub](https://github.com/Nahidzeinali-web/Assignment2/tree/main) |
 | 4       | ✅ LangChain Tools & LangGraph Integration Tutorial-1|[GitHub](https://github.com/Nahidzeinali-web/1-langgraph/tree/main) |
 | 5       | ✅ LangChain Tools & LangGraph Integration Tutorial-2| [GitHub](https://github.com/Nahidzeinali-web/5-Agentic_AI) |
-| *       | ✅ Assignment-3 "AI-Based Trip Planner with Agentic AI and LLMOps"|[GitHub] (https://github.com/Nahidzeinali-web/Assignment-3/tree/main) |
+| *       | ✅ Assignment-3 "AI-Based Trip Planner with Agentic AI"|[GitHub](https://github.com/Nahidzeinali-web/Assignment-3/tree/main)|
 | 6       | ✅ Agent RAG Pipeline|[GitHub](https://github.com/Nahidzeinali-web/6-Agentic-AI)|
 | 7       | ✅ Introduction of Multi Agent|[GitHub](https://github.com/Nahidzeinali-web/6-Multi-Agent/tree/main)|
 | *       | ✅ Assignemnt-4|[GitHub]
