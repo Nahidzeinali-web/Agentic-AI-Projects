@@ -30,6 +30,7 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 | 8       | ✅ LangGraph Multi-Agent & Human-in-the-Loop Agent| [GitHub](https://github.com/Nahidzeinali-web/7-Agentic_AI)|
 | *       | ✅ Assignemnt-5|[GitHub]
 | 9       | ✅ Introduction of Autogen| [GitHub](https://github.com/Nahidzeinali-web/8-Autogen)|
+| 10       | ✅ Basic of Autogen| [GitHub](https://github.com/Nahidzeinali-web/9-Autogen_basic)|
 | -       |  🕐 In Progress  | _Coming soon_ |
 
 > ✅ Completed  🕐 In Progress  🔜 Planned
