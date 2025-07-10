@@ -23,15 +23,15 @@ This track focuses on building **autonomous and interactive AI agents** using mo
 | *       | ✅ Assignemnt-1|[GitHub](https://github.com/Nahidzeinali-web/Assignment2/tree/main) |
 | 4       | ✅ LangChain Tools & LangGraph Integration Tutorial-1|[GitHub](https://github.com/Nahidzeinali-web/1-langgraph/tree/main) |
 | 5       | ✅ LangChain Tools & LangGraph Integration Tutorial-2| [GitHub](https://github.com/Nahidzeinali-web/5-Agentic_AI) |
-| *       | ✅ Assignment-2|[GitHub]()|
+| *       | ✅ Assignment-2|[GitHub](https://github.com/Nahidzeinali-web/Assignment--Agent)|
 | 6       | ✅ Agent RAG Pipeline|[GitHub](https://github.com/Nahidzeinali-web/6-Agentic-AI)|
 | *       | ✅ Assignment-3 "AI-Based Trip Planner with Agentic AI"|[GitHub](https://github.com/Nahidzeinali-web/Ai_trip_planner/tree/main)|
 | 7       | ✅ Introduction of Multi Agent|[GitHub](https://github.com/Nahidzeinali-web/6-Multi-Agent/tree/main)|
-| *       | ✅ Assignemnt-4|[GitHub]
+| *       | ✅ Assignemnt-4|[GitHub](https://github.com/Nahidzeinali-web/Corrective-RAG-Type-of-the-Agentic-RAG-)|
 | 8       | ✅ LangGraph Multi-Agent & Human-in-the-Loop Agent| [GitHub](https://github.com/Nahidzeinali-web/7-Agentic_AI)|
-| *       | ✅ Assignemnt-5|[GitHub]
+| *       | ✅ Assignemnt-5|[GitHub](https://github.com/Nahidzeinali-web/Assignment-for-the-multiagent)
 | 9       | ✅ Introduction of Autogen| [GitHub](https://github.com/Nahidzeinali-web/8-Autogen)|
-| 10       | ✅ Basic of Autogen| [GitHub](https://github.com/Nahidzeinali-web/9-Autogen_basic)|
+| 10      | ✅ Basic of Autogen| [GitHub](https://github.com/Nahidzeinali-web/9-Autogen_basic)|
 | -       |  🕐 In Progress  | _Coming soon_ |
 
 > ✅ Completed  🕐 In Progress  🔜 Planned
